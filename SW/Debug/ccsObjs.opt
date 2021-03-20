@@ -1,0 +1,1 @@
+"../light-test-01/Debug/main.obj" "./light-test-01/main.obj" "./main.obj" "../lnk_msp430g2553.cmd" "../light-test-01/lnk_msp430g2252.cmd" -l"libc.a" 
